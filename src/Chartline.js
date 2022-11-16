@@ -35,7 +35,7 @@ const options = {
     },
     title: {
       display: true,
-      text: "Revenue Chart",
+      text: "Revenue Chart Using React",
     },
   },
 };
