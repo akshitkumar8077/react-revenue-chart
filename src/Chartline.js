@@ -77,13 +77,17 @@ const Chartline = () => {
     datasets: [
       {
         label: "Product 1",
-        data: [1000, 2006, 3545, 4454, 0],
+        data: [
+          1000, 2006, 3545, 4454, 0, 500, 1000, 2000, 4500, 1230, 1244, 1354,
+        ],
         borderColor: "red",
         backgroundColor: "rgba(255,6,99,0.5)",
       },
       {
         label: "Product 12",
-        data: [4564, 5553, 7223, 1543, 2432],
+        data: [
+          4564, 5553, 7223, 1543, 2432, 550, 1500, 2300, 4560, 1245, 1434, 1324,
+        ],
         borderColor: "blue",
         backgroundColor: "rgba(255,199,234,0.5)",
       },
