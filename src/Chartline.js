@@ -85,7 +85,7 @@ const Chartline = () => {
         label: "Product 12",
         data: [4564, 5553, 7223, 1543, 2432],
         borderColor: "blue",
-        backgroundColor: "rgba(255,l99,234,0.5)",
+        backgroundColor: "rgba(255,199,234,0.5)",
       },
     ],
   });
