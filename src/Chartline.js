@@ -59,6 +59,7 @@ const options = {
 //     ]
 //   }
 const Chartline = () => {
+  // eslint-disable-next-line
   const [chart, setChart] = useState({
     labels: [
       "Jan",
